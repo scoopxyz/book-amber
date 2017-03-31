@@ -1,2 +1,2 @@
 # Amber
-The history and minutia of captured sunlight in cinema.
+The history and minutiae of captured sunlight in cinema.
